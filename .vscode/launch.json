@@ -1,0 +1,63 @@
+// for windows
+// note that I had to put sourcemaps: true in every tsconfig (the root one and the server one)
+{
+  "version": "0.2.0",
+  "compounds": [
+    {
+      "name": "fullstack: Nuxt & Chrome",
+      "configurations": ["server: Nuxt", "client: Chrome"]
+    }
+  ],
+  "configurations": [
+    {
+      "name": "client: Chrome",
+      "request": "launch",
+      "type": "chrome",
+      "url": "http://localhost:3001",
+      "webRoot": "${workspaceFolder}",
+    },
+    {
+      "name": "server: Nuxt",
+      "type": "node",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
+
+/* for mac
+
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "client: chrome",
+      "url": "http://localhost:3001",
+      "webRoot": "${workspaceFolder}"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "server: nuxt",
+      "args": ["dev"],
+      "osx": {
+        "program": "${workspaceFolder}/node_modules/.bin/nuxt"
+      },
+      "linux": {
+        "program": "${workspaceFolder}/node_modules/.bin/nuxt"
+      }
+    }
+  ],
+  "compounds": [
+    {
+      "name": "fullstack: nuxt",
+      "configurations": ["server: nuxt", "client: chrome"]
+    }
+  ]
+}
+*/

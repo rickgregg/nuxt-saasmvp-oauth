@@ -1,0 +1,7 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "sourcemap": {
+    "server": true,
+    "client": true
+  },
+}
