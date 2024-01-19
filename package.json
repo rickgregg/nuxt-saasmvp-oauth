@@ -1,9 +1,14 @@
 {
   "name": "nuxt-saasmvp-oauth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "nuxt-saasmvp-oauth is a Nuxt 3 Module employing the OAuth 2.0 authorization framework defined by IETF RFC 6749 to obtain limited access to a HTTP service. Access to protected resources is granted to Users and REST API Endpoints using an access token conforming with the IETF RFC 7519 JSON Web Token (JWT) standard. The module may be used within the saasmvp framework ecosystem or with any Nuxt 3 application. nuxt-saasmvp-oauth is lightweight and easy to use for fast deployment.",
   "repository": "https://www.npmjs.com/package/nuxt-saasmvp-oauth",
-  "keywords": ["nuxt", "module", "oauth", "saasmvp"],
+  "keywords": [
+    "nuxt",
+    "module",
+    "oauth",
+    "saasmvp"
+  ],
   "homepage": "https://saasmvp.org",
   "license": "MIT",
   "type": "module",
