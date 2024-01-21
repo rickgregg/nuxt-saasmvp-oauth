@@ -6,6 +6,7 @@
   "keywords": [
     "nuxt",
     "module",
+    "authentication",
     "oauth",
     "saasmvp"
   ],

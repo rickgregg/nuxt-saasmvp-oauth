@@ -8,18 +8,18 @@
 
 ### Documentation
 
-Get documentation for the [**nuxt-saasmvp-oauth**](https://saasmvp.org/reference/authentication) NUXT 3 Module.
+Get documentation for the [**nuxt-saasmvp-oauth**](https://oauth.saasmvp.org/) NUXT 3 Module.
 
 ### The saasmvp Project
 
-Spin up a SaaS Minimally Viable Product Fast. Quickly Discover your Customer. No Assembly Required. Find out more and get documentation for [**The saasmvp Project**](https://saasmvp.org). The saasmvp Project uses the nuxt-saasmvp-oauth NUXT 3 Module.
+**COMING SOON** Spin up a SaaS Minimally Viable Product Fast. Quickly Discover your Customer. No Assembly Required. Find out more and get documentation for [**The saasmvp Project**](https://saasmvp.org). The saasmvp Project uses the nuxt-saasmvp-oauth NUXT 3 Module.
 
 ### Support
 
-FREE individual support is available for [**registered users**](https://saasmvp.org/support) at **support@saasmvp.org**. [**Public support**](https://github.com/rickgregg/my-module/issues) is available anytime.
+FREE individual support is available for [**registered users**](https://oauth.saasmvp.org/documentation/support.html) at **support@saasmvp.org**. [**Public support**](https://github.com/rickgregg/nuxt-saasmvp-oauth/issues) is available anytime.
 
 ### License
 
 [**MIT**](https://github.com/rickgregg/my-module/blob/main/LICENSE.txt)
 
-Copyright (c) 2024, Richard L. Gregg
+Copyright (c) 2024, The saasmvp Project
