@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "nuxt-saasmvp-oauth-playground",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "generate": "nuxi generate"
+  },
+  "dependencies": {
+    "nuxt": "^3.11.2",
+    "markdown-it": "^13.0.1"
+  }
+}

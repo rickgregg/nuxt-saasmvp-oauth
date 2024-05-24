@@ -1,0 +1,9 @@
+{
+  "oauth": {
+    "jwtKey": "FF92528C6D4C441CF853CF99E55E4129",
+    "jwtKeyExpires": "7200",
+    "boundryTime": 125,
+    "logFlag": true
+  },
+  "protected": ["/api/v1/apitest", "/api/v1/apitest/*", "/api/v1/dummy", "/api/v1/dynamic/*", "/api/v1/nested/*", "/api/v1/query/*"]
+}
