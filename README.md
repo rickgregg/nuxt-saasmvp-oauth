@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/nuxt-saasmvp-oauth?logo=npm)](https://www.npmjs.com/package/nuxt-saasmvp-oauth)
+[![npm](https://img.shields.io/npm/v/@saasmvp/nuxt-saasmvp-oauth?logo=npm)](https://www.npmjs.com/package/@saasmvp/nuxt-saasmvp-oauth)
 [![github](https://img.shields.io/badge/github%20repo-black?logo=github)](https://github.com/rickgregg/nuxt-saasmvp-oauth)
 [![license](https://img.shields.io/github/license/nuxt/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D)](https://github.com/rickgregg/nuxt-saasmvp-oauth/blob/main/LICENSE.txt)
 [![nuxt](https://img.shields.io/badge/Nuxt%20Framework-18181B?logo=nuxt.js)](https://nuxt.com)
